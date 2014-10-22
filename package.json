@@ -1,0 +1,25 @@
+{
+  "name": "visualizer",
+  "version": "1.0.0",
+  "description": "visualize XC stats.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bluetomatoes/visualizer"
+  },
+  "author": "Matthew Mellea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bluetomatoes/visualizer/issues"
+  },
+  "homepage": "https://github.com/bluetomatoes/visualizer",
+  "dependencies": {
+    "d3": "^3.4.13",
+    "express": "^3.18.0",
+    "express-handlebars": "^1.1.0",
+    "mysql": "^2.5.2"
+  }
+}

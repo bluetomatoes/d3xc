@@ -1,0 +1,21 @@
+.chart div {
+	  font: 10px sans-serif;
+	  background-color: steelblue;
+	  text-align: right;
+	  padding: 3px;
+	  margin: 1px;
+	  color: white;
+}
+
+.chart rect {
+  fill: rgb(200,10,10);
+  width: inherit;
+  fill-opacity:0.2;
+
+}
+
+.chart text {
+  fill: white;
+  font: 10px sans-serif;
+  text-anchor: end;
+}
